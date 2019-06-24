@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1561019236 source:/home/ITRANSITION.CORP/a.luzgin/example/Permutations/main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<cmath>
+
